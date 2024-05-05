@@ -17,21 +17,21 @@ export default function Projects() {
         {
             title:"Pinterest Clone",
             tech:[SiJavascript,SiTailwindcss,SiNodedotjs, SiExpress,SiMongodb],
-            link:"https://attendexx.netlify.app/",
+            link:"https://github.com/Ayesha-Siddiqua88/Pinterest_Clone",
             cover:"/project2.png",
             background:"bg-pink-950"
         },
         {
             title:"Memer",
             tech:[SiReact],
-            link:"",
+            link:"https://github.com/Ayesha-Siddiqua88/Memer",
             cover:"/project3.png",
             background:"bg-blue-500"
         },
         {
             title:"Health Pilot",
             tech:[SiPython,SiStreamlit,SiGooglecloudstorage],
-            link:"",
+            link:"https://github.com/Ayesha-Siddiqua88/Health-Pilot",
             cover:"/project4.png",
             background:" bg-orange-600"
         }
